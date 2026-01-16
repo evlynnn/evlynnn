@@ -13,44 +13,76 @@ to sharpening skills and expanding perspective.
 - Building **real-world applications** with clean UI and scalable logic
 - Deepening theoretical and practical understanding of **Machine Learning**
 
-### ⚙️ Languages & Frameworks
-
 <p>
-  <img src="https://img.shields.io/badge/-Go-white?style=flat&logo=go" />
-  <img src="https://img.shields.io/badge/-C++-white?style=flat&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-Python-white?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Java-white?style=flat&logo=openjdk" />
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Dart-white?style=flat&logo=dart" />
-  <img src="https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-white?style=flat&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/-Flutter-white?style=flat&logo=flutter" />
+  <a href="https://go.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Go-ffffff?style=flat&logo=go" />
+  </a>
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-ffffff?style=flat&logo=c%2B%2B&logoColor=00599C" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-ffffff?style=flat&logo=python" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=openjdk&logoColor=007396" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript" />
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-ffffff?style=flat&logo=dart&logoColor=0175C2" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-ffffff?style=flat&logo=tailwindcss" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" />
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-ffffff?style=flat&logo=flutter&logoColor=02569B" />
+  </a>
 </p>
 
-### 🗄️ Databases & Tools
-
 <p>
-  <img src="https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Git-lightgray?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-lightgray?style=flat&logo=github" />
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat&logo=mysql" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=git" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=181717" />
+  </a>
 </p>
 
-### 🤖 Machine Learning
-
 <p>
-  <img src="https://img.shields.io/badge/-scikit--learn-white?style=flat&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/-NumPy-white?style=flat&logo=numpy" />
-  <img src="https://img.shields.io/badge/-Pandas-white?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/-PyTorch-white?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-TensorFlow-white?style=flat&logo=tensorflow" />
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-ffffff?style=flat&logo=scikitlearn" />
+  </a>
+  <a href="https://numpy.org" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-ffffff?style=flat&logo=numpy&logoColor=013243" />
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-ffffff?style=flat&logo=pandas&logoColor=150458" />
+  </a>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-ffffff?style=flat&logo=pytorch" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=flat&logo=tensorflow" />
+  </a>
 </p>
 
-### 🎨 Design
-
 <p>
-  <img src="https://img.shields.io/badge/-Figma-lightgray?style=flat&logo=figma" />
-  <img src="https://img.shields.io/badge/-Canva-lightgray?style=flat&logo=canva" />
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-ffffff?style=flat&logo=figma" />
+  </a>
+  <a href="https://www.canva.com" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-ffffff?style=flat&logo=canva" />
+  </a>
 </p>
 
 ## 🌐 Connect With Me
