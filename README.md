@@ -59,7 +59,7 @@ to sharpening skills and expanding perspective.
   <a href="https://instagram.com/ev.lyynnn">
     <img src="https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram" />
   </a>
-  <a href="https://linkedin.com/in/Evelyn Emery Dahayu">
+  <a href="https://linkedin.com/in/evelyn-emery-dahayu">
     <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:evelynayu95@gmail.com">
