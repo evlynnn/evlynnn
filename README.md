@@ -56,10 +56,10 @@ to sharpening skills and expanding perspective.
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://instagram.com/evlyynnn">
+  <a href="https://instagram.com/ev.lyynnn">
     <img src="https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram" />
   </a>
-  <a href="linkedin.com/in/evelyn-emery-dahayu/">
+  <a href="https://linkedin.com/in/Evelyn Emery Dahayu">
     <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:evelynayu95@gmail.com">
