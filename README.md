@@ -13,6 +13,10 @@ to sharpening skills and expanding perspective.
 - Building **real-world applications** with clean UI and scalable logic
 - Deepening theoretical and practical understanding of **Machine Learning**
 
+## ⚙️ Tech Stack
+
+### Languages & Frameworks
+
 <p>
   <a href="https://go.dev" target="_blank">
     <img src="https://img.shields.io/badge/Go-ffffff?style=flat&logo=go" />
@@ -46,6 +50,8 @@ to sharpening skills and expanding perspective.
   </a>
 </p>
 
+### Databases & Tools
+
 <p>
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat&logo=mysql" />
@@ -57,6 +63,8 @@ to sharpening skills and expanding perspective.
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=181717" />
   </a>
 </p>
+
+### Machine Learning
 
 <p>
   <a href="https://scikit-learn.org" target="_blank">
@@ -75,6 +83,8 @@ to sharpening skills and expanding perspective.
     <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=flat&logo=tensorflow" />
   </a>
 </p>
+
+### Design
 
 <p>
   <a href="https://www.figma.com" target="_blank">
