@@ -56,25 +56,13 @@ to sharpening skills and expanding perspective.
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://instagram.com/USERNAME_KAMU">
+  <a href="https://instagram.com/evlyynnn">
     <img src="https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_KAMU">
+  <a href="linkedin.com/in/evelyn-emery-dahayu/">
     <img src="https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:emailkamu@example.com">
+  <a href="mailto:evelynayu95@gmail.com">
     <img src="https://img.shields.io/badge/-Email-white?style=flat&logo=gmail" />
   </a>
 </p>
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/evlynnn/evlynnn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/evlynnn/evlynnn/output/github-snake.svg" />
-  <img alt="github contribution snake animation" 
-       src="https://raw.githubusercontent.com/evlynnn/evlynnn/output/github-snake.svg" />
-</picture>
-
